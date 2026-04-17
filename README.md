@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis
+# 📊 Sales Data Analysis Project
 
 ## 🧠 Project Overview
 This project analyzes sales data to identify key business insights such as top-performing cities, products, and customers.
