@@ -1,8 +1,7 @@
 # 📊 Sales Data Analysis Project
 
 ## 🧠 Project Overview
-This project analyzes sales data to identify key business insights such as top-performing cities, products, and customers.
-
+This project analyzes sales data to extract actionable business insights, including top-performing cities, products, and high-value customers.
 ---
 
 ## ⚙️ Tools Used
@@ -37,4 +36,4 @@ This project analyzes sales data to identify key business insights such as top-p
 
 ## 🚀 Conclusion
 
-The analysis highlights key opportunities to focus on high-performing products and locations.
+The analysis reveals key opportunities to optimize business performance by focusing on high-revenue locations and top-selling products.
