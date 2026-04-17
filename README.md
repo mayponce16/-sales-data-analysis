@@ -37,3 +37,8 @@ This project analyzes sales data to extract actionable business insights, includ
 ## 🚀 Conclusion
 
 The analysis reveals key opportunities to optimize business performance by focusing on high-revenue locations and top-selling products.
+
+## Recommendations
+- Focus marketing efforts on high-performing cities like CDMX
+- Increase promotion of high-revenue products such as laptops
+- Improve sales strategy for lower-performing products
